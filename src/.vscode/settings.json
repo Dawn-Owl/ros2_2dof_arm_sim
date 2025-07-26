@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hyosub/action_ws/install/actions_py/lib/python3.12/site-packages",
+        "/home/hyosub/action_ws/install/robot_interfaces/lib/python3.12/site-packages",
+        "/home/hyosub/action_ws/install/lifecycle_py/lib/python3.12/site-packages",
+        "/home/hyosub/action_ws/install/executors_py/lib/python3.12/site-packages",
+        "/home/hyosub/action_ws/install/components_py/lib/python3.12/site-packages",
+        "/home/hyosub/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/hyosub/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hyosub/action_ws/install/actions_py/lib/python3.12/site-packages",
+        "/home/hyosub/action_ws/install/robot_interfaces/lib/python3.12/site-packages",
+        "/home/hyosub/action_ws/install/lifecycle_py/lib/python3.12/site-packages",
+        "/home/hyosub/action_ws/install/executors_py/lib/python3.12/site-packages",
+        "/home/hyosub/action_ws/install/components_py/lib/python3.12/site-packages",
+        "/home/hyosub/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/hyosub/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
