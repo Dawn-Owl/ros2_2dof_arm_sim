@@ -40,11 +40,13 @@ ros2 topic pub -1 /joint0/cmd_pos std_msgs/msg/Float64 "{data: 0.5}"
 
 # If you want Move joint1 to 1.0 radians
 ros2 topic pub -1 /joint1/cmd_pos std_msgs/msg/Float64 "{data: 1.0}"
-
+```
 🎥 Demo
-
+![Robot Arm Demo](images/move_arm.gif)
+```
 📦 Packages
 
     my_robot_description: URDF + xacro files
 
     my_robot_bringup: launch files and Gazebo bridge
+```
